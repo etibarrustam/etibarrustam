@@ -1,4 +1,4 @@
-### Hi there 👋 Im <a href="https://www.linkedin.com/in/etibar-rustam/">Etibar Rustamzada.</a>
+### Hi there 👋 Im <a href="https://bit.ly/3qL0cFn">Etibar Rustamzada.</a>
 
 <!--
 **etibarrustam/etibarrustam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
